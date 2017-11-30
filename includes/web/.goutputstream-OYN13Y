@@ -1,0 +1,15 @@
+#ifndef _HTML_H_009_H_
+#define _HTML_H_009_H_
+static const char h_009[] = {
+"HTTP/1.1 200 OK\r\nContent-Type:text/html\r\nAccept-Ranges:bytes\r\n\r\n"
+"<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>\n"
+"<html xmlns='http://www.w3.org/1999/xhtml'>\n"
+    "<head>\n"
+        "<meta http-equiv='Content-Type' content='text/html; charset=GB2312'/>\n"
+        "<link type='text/css' href='c_000.css' rel='stylesheet'/>\n"
+        "<script language='javascript' type='text/javascript'>\n"
+            "var language=1;\n"
+            "var Json;\n"
+            "var lang=\n"
+            "{\n"
+                "N01:['

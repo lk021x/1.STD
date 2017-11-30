@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1142000939/LD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1142000939/LD_LIBRARY_PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1142000939/LD_LIBRARY_PATH/value=/home/ctools/arm-4.8.4/lib
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1142000939/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1142000939/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1093853718/LD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1093853718/LD_LIBRARY_PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1093853718/LD_LIBRARY_PATH/value=/usr/lib/jvm/jdk1.6.0_45/jre/lib/amd64/server\:/usr/lib/jvm/jdk1.6.0_45/jre/lib/amd64\:/usr/lib/jvm/jdk1.6.0_45/jre/../lib/amd64\:/home/ctools/arm-4.8.4/lib
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1093853718/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1093853718/appendContributed=true

@@ -1,0 +1,11 @@
+#ifndef _HTML_H_002_H_
+#define _HTML_H_002_H_
+static const char h_002[] = {
+		"HTTP/1.1 200 OK\r\nContent-Type:text/html\r\nAccept-Ranges:bytes\r\n\r\n"
+		"<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>\n"
+		"<html xmlns='http://www.w3.org/1999/xhtml'>\n"
+		    "<head>\n"
+		        "<meta http-equiv='Content-Type' content='text/html; charset=GB2312'/>\n"
+		        "<style type='text/css'>\n"
+		            "html{_overflow-y:scroll;}\n"
+		            "body{margin:0;padding:0;text-align:center;font-size:14px;font-family:'
